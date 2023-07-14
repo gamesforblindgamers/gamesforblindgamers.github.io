@@ -4,9 +4,9 @@ Welcome to the **Games for Blind Gamers** website! Our main hub for everything i
 
 Check out our upcoming jams:
 
-- [the weekly jam goes here](#)
+- [BARE Jam 1 (Blind Accessibility Research and Exploration)](https://itch.io/jam/bare-1)
 
 Our previous jams include:
 
-- [Games for Blind Gamers 2](#) (year goes here)
-- [Games for Blind Gamers 1](#) (year goes here)
+- [Games for Blind Gamers 2](https://itch.io/jam/games-for-blind-gamers-2) (1-30 April 2023)
+- [Games for Blind Gamers 1](https://itch.io/jam/games-for-blind-gamers) (1-31 December 2021)
